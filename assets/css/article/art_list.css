@@ -1,0 +1,28 @@
+body{
+    padding: 15px;
+}
+td a{
+    color: blue;
+}
+.detail-box{
+    padding: 20px;
+}
+.detail-box h2{
+    text-align: center;
+}
+.detail-box ul{
+    margin: 20px 0;
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+}
+.detail-box ul li{
+    float: left;
+    margin-right: 20px;
+    color: gray;
+    font-size: 14px;
+
+}
+.detail-box img{
+    width: 480px;
+    margin: 20px 0;
+}
